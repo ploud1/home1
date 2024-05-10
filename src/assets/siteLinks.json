@@ -7,12 +7,12 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "http://121.37.134.233:5244/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "http://121.37.134.233:7899/#/"
   },
   {
     "icon": "Compass",
@@ -21,8 +21,8 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "签到",
+    "link": "http://121.37.134.233:59595/my"
   },
   {
     "icon": "Fire",
@@ -30,7 +30,7 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
   }
